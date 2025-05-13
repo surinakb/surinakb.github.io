@@ -1,4 +1,4 @@
-/*
+/* 
  * This file contains the declarations for for common functions that
  * we will use in ELEC327. See LICENSE file for details on licensing.
 */
