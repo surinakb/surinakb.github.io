@@ -1,0 +1,5 @@
+final-project-code/Debug/
+final-project-code/Release/
+*.launch
+*.log
+*.stackdump
